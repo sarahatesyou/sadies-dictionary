@@ -1,3 +1,15 @@
 .App-header {
   margin: 30px 0;
 }
+
+.App-footer {
+  font-size: 10px;
+  color: #a8a6a6;
+  font-weight: bold;
+  margin: 30px 0;
+  text-align: center;
+}
+
+.App-footer a {
+  color: #ffaa7c;
+}
