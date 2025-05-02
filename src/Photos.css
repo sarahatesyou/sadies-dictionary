@@ -1,0 +1,16 @@
+.Photos {
+  margin: 0 auto;
+  width: 600px;
+}
+.Photos img {
+  padding: 5px;
+}
+
+@media (max-width: 960px) {
+  .Photos {
+    width: 100%;
+  }
+  .Photos img {
+    width: 50%;
+  }
+}
