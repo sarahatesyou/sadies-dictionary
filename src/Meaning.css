@@ -17,3 +17,24 @@
   color: #ff6715;
   width: 80%;
 }
+
+@media (max-width: 960px) {
+  .Meaning {
+    width: 100%;
+  }
+  .Meaning h4 {
+    font-size: 15px;
+    color: #ff6715;
+    font-style: italic;
+    font-weight: 600;
+    margin: 0;
+  }
+
+  .Meaning p {
+    font-size: 20px;
+  }
+
+  .Meaning hr {
+    color: #ff6715;
+  }
+}

@@ -16,3 +16,23 @@
   font-size: 20px;
   color: #ffaa7c;
 }
+
+@media (max-width: 960px) {
+  .Results {
+    margin: 0 auto;
+    padding: 0px;
+  }
+
+  .Results h2 {
+    text-transform: capitalize;
+    font-size: 29px;
+    font-weight: bold;
+    margin: 0;
+  }
+
+  .Results h3 {
+    margin-top: 0;
+    font-size: 15px;
+    color: #ffaa7c;
+  }
+}

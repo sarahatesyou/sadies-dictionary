@@ -26,3 +26,12 @@
 .Dictionary .button {
   background-color: #ff6715;
 }
+
+@media (max-width: 960px) {
+  .Dictionary h1 {
+    font-size: 80px;
+    color: #ff6715;
+    font-weight: bold;
+    text-align: center;
+  }
+}
