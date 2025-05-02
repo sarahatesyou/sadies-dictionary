@@ -1,0 +1,18 @@
+.Results {
+  margin: 0 auto;
+  padding-left: 250px;
+  padding-top: 50px;
+}
+
+.Results h2 {
+  text-transform: capitalize;
+  font-size: 39px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.Results h3 {
+  margin-top: 0;
+  font-size: 20px;
+  color: #ffaa7c;
+}

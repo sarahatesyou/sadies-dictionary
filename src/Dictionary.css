@@ -1,10 +1,28 @@
 .Dictionary {
   margin: 0 auto;
+}
+
+.Dictionary section {
+  padding: 10px;
+}
+
+.Dictionary h1 {
+  font-size: 100px;
+  color: #ff6715;
+  font-weight: bold;
   text-align: center;
 }
 
-h1 {
-  font-size: 40;
-  color: #ff6715;
-  font-weight: bold;
+.Dictionary form {
+  text-align: center;
+}
+
+.Dictionary input {
+  background-color: #ffefe6;
+  border: 1px solid #ff6715;
+  padding-left: 8px;
+}
+
+.Dictionary .button {
+  background-color: #ff6715;
 }
